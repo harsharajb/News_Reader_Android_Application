@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#2196F3" /> <!-- Set the background color of the button -->
+    <corners android:radius="60dp" /> <!-- Set the radius to control the amount of curve (adjust the value as per your preference) -->
+</shape>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countrysCodes">
+        <item>in</item>
+        <item>us</item>
+
+
+    </string-array>
+
+    <integer-array name="countrysIcons">
+        <item>@drawable/india</item>
+        <item>@drawable/usa</item>
+
+
+
+
+    </integer-array>
+
+    <string-array name="countrys">
+        <item>India</item>
+        <item>USA</item>
+    </string-array>
+
+</resources>
