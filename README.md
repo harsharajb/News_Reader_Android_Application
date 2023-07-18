@@ -9,8 +9,9 @@ PPT :[NewsPlus.pptx](https://github.com/harsharajb/News_Reader_Android_Applicati
 Demo :
 https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/307d8390-a922-4eac-a4d1-8246a61bcfde
 
-OUTPUT :![splash](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/ff0f0801-abd3-42a0-8084-6a2bca28b178)
-![signup](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/334554f3-14ba-4210-b13d-aa04f31e4624)
+OUTPUT :
+![splash](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/ff0f0801-abd3-42a0-8084-6a2bca28b178) ![signup](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/334554f3-14ba-4210-b13d-aa04f31e4624)
+
 ![Country ](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/a4173f78-c114-4134-bb62-179e7d490ef0)
 ![Business](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/eb2fa12e-eb00-4d7a-8ac3-28c191285ae0)
 ![Website](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/fa5da1aa-fa42-4dfd-a916-c9cf27526720)
