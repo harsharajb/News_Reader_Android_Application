@@ -1,5 +1,3 @@
-![NewsPlus2](https://github.com/harsharajb/News_Reader_Android_Application/assets/109401373/89117240-a660-4d09-b1ac-613dc5c80a85)
-
 # NewsApp
 The News Reader Android Application is a user-friendly mobile app that allows users to stay updated with the latest news. With a clean interface, it provides a seamless reading experience, offering a wide range of news sources and customizable preferences. Stay informed on-the-go with this comprehensive news app.
 
